@@ -1,0 +1,1 @@
+cmd_/home/stud/SmartGit/MPS/TeamISU/MPS_Exercise_8/Exercise_C/dac7612mod.o := arm-angstrom-linux-gnueabi-ld -EL    -r -o /home/stud/SmartGit/MPS/TeamISU/MPS_Exercise_8/Exercise_C/dac7612mod.o /home/stud/SmartGit/MPS/TeamISU/MPS_Exercise_8/Exercise_C/dac7612.o /home/stud/SmartGit/MPS/TeamISU/MPS_Exercise_8/Exercise_C/dac7612-spi.o 

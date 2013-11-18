@@ -1,0 +1,13 @@
+read is a simple program for reading a given amount
+of bytes from a given file's head.
+
+Usage: read [FILE] [BYTES]
+
+FILE is the absolute or relative path for the file to read.
+BYTES is by default a single byte, and is at maximum 100 bytes.
+
+Example usages:
+./read /dev/random 1
+./read README 85
+
+Made by TeamMPS
